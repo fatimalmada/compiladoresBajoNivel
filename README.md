@@ -4,5 +4,5 @@ Repositorio para trabajos de la asignatura Compiladores y Lenguajes de Bajo Nive
 
 Nombre  y Apellido : Fatima Almada Barreto
 
-Entregas
+Entrega
 Tarea 3 – Traducción dirigida por Sintaxis

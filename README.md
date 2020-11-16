@@ -5,6 +5,4 @@ Repositorio para trabajos de la asignatura Compiladores y Lenguajes de Bajo Nive
 Nombre : Fatima Almada Barreto
 
 Entregas
-Tarea 1 – Análisis Léxico
-Tarea 2 – Análisis Sintáctico Descendente
 Tarea 3 – Traducción dirigida por Sintaxis
